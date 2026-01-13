@@ -1,1 +1,0 @@
-print('vote' in "i like to vote")
